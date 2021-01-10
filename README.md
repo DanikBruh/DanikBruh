@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniyar 👋
 - 🔭 I’m currently studying in school and ITStep computer academy.
 - 🌱 I’m currently learning JavaScript.
-- 🤔 I’m looking for help with Vue.js, MangoDB.
+- 🤔 I’m looking for help with Vue.js, MongoDB.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Too lazy to think about fun fact.
