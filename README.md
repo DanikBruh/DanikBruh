@@ -1,4 +1,5 @@
-### Hi there, I'm Daniyar 👋
-- 🔭 I’m currently studying in school and ITStep computer academy.
-- 🌱 I’m currently learning nothing.
-- ⚡ Fun fact: HTML is the first programming language I've learned.
+### Hi there, I'm Danik.
+- 🔭 I’m majoring in Finance
+- 💻 I lesrned a foundarion of coding at ITStep computer academy.
+- 🌱 I’m currently trying to automate my trading routine.
+- ⚡ I'm learning how to build an algo executing trades based on my strategy.
